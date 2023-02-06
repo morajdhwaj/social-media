@@ -19,7 +19,7 @@ export default function Profile() {
                 className="profileCoverImg"
               />
               <img
-                src="assets/appstore.png"
+                src="assets/Moraj.jpeg"
                 alt=""
                 className="profileUserImg"
               />
